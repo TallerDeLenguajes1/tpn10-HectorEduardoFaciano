@@ -1,0 +1,13 @@
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\bin\Debug\netcoreapp3.1\2Morse.exe
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\bin\Debug\netcoreapp3.1\2Morse.deps.json
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\bin\Debug\netcoreapp3.1\2Morse.runtimeconfig.json
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\bin\Debug\netcoreapp3.1\2Morse.runtimeconfig.dev.json
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\bin\Debug\netcoreapp3.1\2Morse.dll
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\bin\Debug\netcoreapp3.1\2Morse.pdb
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\obj\Debug\netcoreapp3.1\2Morse.csprojAssemblyReference.cache
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\obj\Debug\netcoreapp3.1\2Morse.AssemblyInfoInputs.cache
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\obj\Debug\netcoreapp3.1\2Morse.AssemblyInfo.cs
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\obj\Debug\netcoreapp3.1\2Morse.csproj.CoreCompileInputs.cache
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\obj\Debug\netcoreapp3.1\2Morse.dll
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\obj\Debug\netcoreapp3.1\2Morse.pdb
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\2Morse\obj\Debug\netcoreapp3.1\2Morse.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7VeJsFrY+iJa/H+PRjcTsduz4WlJ1uZKeOCOkTWAm2pk+4DwBcyufwtyBfAy2+XEWxEDGJ0aZ1ONmEWPS4x5tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edu21\\source\\repos\\tpn10-HectorEduardoFaciano\\2Morse\\2Morse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edu21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

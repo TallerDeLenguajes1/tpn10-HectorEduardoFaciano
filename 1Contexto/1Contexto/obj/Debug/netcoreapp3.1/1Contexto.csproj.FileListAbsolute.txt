@@ -1,0 +1,13 @@
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\bin\Debug\netcoreapp3.1\1Contexto.exe
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\bin\Debug\netcoreapp3.1\1Contexto.deps.json
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\bin\Debug\netcoreapp3.1\1Contexto.runtimeconfig.json
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\bin\Debug\netcoreapp3.1\1Contexto.runtimeconfig.dev.json
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\bin\Debug\netcoreapp3.1\1Contexto.dll
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\bin\Debug\netcoreapp3.1\1Contexto.pdb
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\obj\Debug\netcoreapp3.1\1Contexto.csprojAssemblyReference.cache
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\obj\Debug\netcoreapp3.1\1Contexto.AssemblyInfoInputs.cache
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\obj\Debug\netcoreapp3.1\1Contexto.AssemblyInfo.cs
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\obj\Debug\netcoreapp3.1\1Contexto.csproj.CoreCompileInputs.cache
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\obj\Debug\netcoreapp3.1\1Contexto.dll
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\obj\Debug\netcoreapp3.1\1Contexto.pdb
+C:\Users\edu21\source\repos\tpn10-HectorEduardoFaciano\1Contexto\1Contexto\obj\Debug\netcoreapp3.1\1Contexto.genruntimeconfig.cache
